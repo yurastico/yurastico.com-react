@@ -1,9 +1,10 @@
-import './App.css'
+import { GlobalStyles } from "./styles/globalStyles"
 import { Profile } from './sections'
 function App() {
   return (
     <>
-      <Profile/>
+    <GlobalStyles/>
+    <Profile/>
     </>
   )
 }
