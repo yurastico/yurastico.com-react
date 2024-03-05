@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 const Text = styled.p`
-  color: var(--white);
+  color: var(--text-color);
   text-align: justify;
   font-size: 1rem;
   max-width: 600px;
